@@ -1,0 +1,8 @@
+Faire un inspector ou on peut drag drop des GameObjets.
+On affichera la liste de ses objets dans l inpspector.
+
+Par la suite on pourra changer l ordre des objet dans la liste avec des bouton ou en supprimer un de la liste. 
+
+On affichera un trait entre chacun des objets (Handles) et aussi afficher son nom. 
+
+Quand on lance la scene notre player se deplace de l un vers l autre des objets de la liste selon l ordre que les cibles sont dans le tableau
