@@ -1,0 +1,7 @@
+Faire une fenetre qui permet de selectionner 2 couleurs
+Couleur d affichag et couleur pour effacer.
+On peut aussi choisir le nombre de ligne et le nombre de colone.
+
+On pourra aussi drag drop un objet dans la fenetre
+Quand on clique sur le bouton save on ajoutera une nouvelle texture a l objet qui sera
+la meme que les couleur dessiner dans la fenetre.
