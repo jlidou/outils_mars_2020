@@ -1,0 +1,3 @@
+faire un casse brique Simple dans l inspector en utilisant les PropertyAttributs sur un int.
+Si Ajoute l attribut [CasseBrique] un casse brique apparait avec le nombre de brique correspondant au field Int.
+Si autrechose qu un int ajoute un message d erreur.

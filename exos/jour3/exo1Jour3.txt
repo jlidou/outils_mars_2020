@@ -1,0 +1,12 @@
+Faire propertydrawer d une classe Degat avec value et un AnimationCurve;
+
+Utiliser l animCurv pour changer la quantité de degat sur l enemi en fonction de la distance.
+
+Dans la scene utiliser des formes simple.
+
+Utils:
+EditorGUI.CurveField
+AnimationCurve
+
+
+
