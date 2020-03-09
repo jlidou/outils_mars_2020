@@ -26,8 +26,3 @@ public class GuiEditor : Editor{
 
 
 }
-
-[Serializable]
-class MonArme{
-    public int nbCoup;
-}
