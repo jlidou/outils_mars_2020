@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db7d66807a2df0e5bbc9be79e8c3ff59, type: 3}
   m_Name: Personne
   m_EditorClassIdentifier: 
-  nom: 
+  nom: Toto
   age: 0
+  couleurDeCheuveux: {r: 1, g: 0, b: 0, a: 0}
