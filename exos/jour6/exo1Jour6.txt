@@ -1,0 +1,2 @@
+Doit faire une plateforme avec plusieurs player qui ont une couleur aleatoire et un deplacement aleatoire. Dans un Editor du MainsCript Doit avoir un bouton Save et Load. (supp : ajouter plusieurs fichier json, dans l editeur utiliser OpenFilePanel pour selectionner le fichier)
+
