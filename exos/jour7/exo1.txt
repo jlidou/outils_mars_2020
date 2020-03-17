@@ -1,5 +1,10 @@
 Faire un projet unity qui contiendra ces elements dedans.
 
-- un stack FILO avec les generiques. 
+- un stack Fisrt In Last Out avec les generiques. 
 - Faire un événement perso dans Unity sur des gameObject.
 - Faire une méthode extension.
+
+class MonStack<T>{
+    T[]
+    int size;
+}
