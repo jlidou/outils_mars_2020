@@ -1,0 +1,79 @@
+Dans cette exercice nous allons utiliser la récursion.
+
+On va devoir aider les parieurs à enlever des grilles de paries selon la lois de pareto
+
+soit la liste des matchs suivants:
+
+           1 N 0 
+Edmonton   X X X  Ottawa
+Pittsburg  X X X  Ny Ranger
+Tampa Bay  X X X  Vancouver
+Vegas      X X X  Arizona
+Boston     X X X  Anaheim
+
+Ici on la liste des affrontements pour le 18 mars
+*On voudrais dans un premier temps afficher tous les résultats possibles
+
+Grille 1 :
+Edmonton   1      Ottawa
+Pittsburg  1      Ny Ranger
+Tampa Bay  1      Vancouver
+Vegas      1      Arizona
+Boston     1      Anaheim
+
+Grille 2 :
+Edmonton   1      Ottawa
+Pittsburg  1      Ny Ranger
+Tampa Bay  1      Vancouver
+Vegas      1      Arizona
+Boston       N    Anaheim
+
+Grille3
+Edmonton   1      Ottawa
+Pittsburg  1      Ny Ranger
+Tampa Bay  1      Vancouver
+Vegas      1      Arizona
+Boston         0  Anaheim
+
+.
+.
+.
+.
+
+On a N à la puissance 3 possibilités de grilles ou N est le nombre d’équipe qui s’affronte.
+
+*Dans un deuxième temps on voudra élimer des grilles qui ont peu de probabilité de se réaliser
+selon la lois de Pareto.
+https://fr.wikipedia.org/wiki/Principe_de_Pareto
+
+Donc si on a 10 équipes, d’avoir 10, 9 ou 8  victoires à domicile est très peu probable
+comme d’avoir 10 9 8 matchs null.
+
+Ceci va permettre de filtrer et d enlever des combinaisons et diminuer le nombre de grille restante a parier.
+
+*Finalement 
+Pour chaque match il existe des cotes
+            1   N   0 
+Edmonton   2.3 8.1 0.4  Ottawa
+Pittsburg  4.1 4.0 5.1  Ny Ranger
+Tampa Bay  1.5 2.2 2.3  Vancouver
+Vegas      2.8 3.3 1.0  Arizona
+Boston     5.3 7.1 1.2  Anaheim
+
+Si on a la grille où on a que des victoires on va avoir une cote de 2.3*4.1*1.5*2.8*5.3 = 209.91
+si j ai parié 2$ je vais gagné 2 * 209.91 = 419.82 $
+Afficher pour chaque grille combien de vais gagner en fonction de combien je vais parier.
+
+
+Bonus : 
+Ajouter la possibilité d enlever des résultats en fonction de la cote.
+ex si dans un résultat j ai une cote < 2 je ne prend pas en compte la grille.
+
+Je vous conseille de réfléchir un minimum avant de coder.
+Vous pouvez faire l exercice a plusieurs (max 2 ou 3) mais me préciser qui a travailler sur l exercice.
+
+
+
+
+
+
