@@ -1,0 +1,5 @@
+Créez une banque disposant d'un montant d'argent et d'un mot de passe.
+Créez un programme de force brute multithread qui tente de deviner le mot de passe et vole la banque.
+Chaque fois que la banque est volée, le mot de passe doit etre réinitialisé.
+Continuez à voler la banque jusqu'à ce qu'elle soit à court d'argent.
+Afficher le temps pris avec un chronomètre
