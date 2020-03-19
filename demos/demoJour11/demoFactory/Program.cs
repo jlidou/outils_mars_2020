@@ -12,23 +12,16 @@ namespace demoFactory
         {
             List<Enemmi> enemmis = new List<Enemmi>();
 
-
             enemmis.Add(EnemmiFactory.generate(EnemiType.BlazardBlue, "blazar"));
             enemmis.Add(EnemmiFactory.generate(EnemiType.BlazardBlue, "blazar"));
             enemmis.Add(EnemmiFactory.generate(EnemiType.BlazardBlue, "blazar"));
             enemmis.Add(EnemmiFactory.generate(EnemiType.BlazardBlue, "blazar"));
             enemmis.Add(EnemmiFactory.generate(EnemiType.StolderBlack, "blazar"));
             enemmis.Add(EnemmiFactory.generate(EnemiType.StolderBlack, "blazar"));
-
-            enemmis.Add(EnemmiFactory.generate(EnemiType.ExistePas, "blazar"));
-            
-
-
-
+            enemmis.Add(EnemmiFactory.generate(EnemiType.ExistePas, "blazar"));      
             enemmis.Add(EnemmiFactory.generate(EnemiType.TorkesienCruel, "blazar"));
             enemmis.Add(EnemmiFactory.generate(EnemiType.TorkesienCruel, "blazar"));
             enemmis.Add(EnemmiFactory.generate(EnemiType.TorkesienCruel, "blazar"));
-
 
             foreach (var e in enemmis)
             {
