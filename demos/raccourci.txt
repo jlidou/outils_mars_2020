@@ -1,0 +1,51 @@
+T pour fenetre gauche
+N pour fenetre prop
+Shift + a add mesh
+a selectionner tout
+x suppr
+z selection solid ou wireframe
+shift + c center le cursor
+tab mode edition a objet
+ctrl + tab change entre les modes
+1 vertex mode
+2 edge mode
+3 face mode
+
+shift + d duplicate
+
+/** edit mode **/
+ctrl + r loop cut 
+e exturde
+f fermer la selection de point (creer une face )
+alt + click next edge => selection toute la ligne
+alt + m merge vertice 
+shift + s snap mode
+
+/** outils selection **/
+b selection boc;
+c selection en cercle 
+faire attention au mode x-ray
+
+/** calque. **/
+ajouter une nouvelle collection dans l outline
+m pour changer l objet de collection
+
+
+/** selection de vue **/
+pavé numerique ou touche diese
+
+/** ajouter une image blueprint **/
+add image background n existe plus le menu pour iamge en bg
+
+joinr to mesh in one groupe
+ctrl + j
+
+separer en plusieurs groupe
+p
+
+etendre la selection 
+ctr + numpad +
+
+shift +d duplicate
+ctrl + e edge menu
+
