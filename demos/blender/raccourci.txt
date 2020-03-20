@@ -37,7 +37,7 @@ pavé numerique ou touche diese
 /** ajouter une image blueprint **/
 add image background n existe plus le menu pour iamge en bg
 
-joinr to mesh in one groupe
+join to mesh in one groupe
 ctrl + j
 
 separer en plusieurs groupe
