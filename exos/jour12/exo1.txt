@@ -1,0 +1,4 @@
+dans blender:
+choisir un blue print refaire la modelisation du personnage,
+ajouter les os, 
+ajouter le maillage aux os du personnage
