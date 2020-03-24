@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 07d74f6f015e59d8d89395fff83d7c6d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: avant bras.L
+    100004: avant bras.R
+    100006: bras.L
+    100008: bras.R
+    100010: Camera
+    100012: clavicule.L
+    100014: clavicule.R
+    100016: cou
+    100018: cuisse.L
+    100020: cuisse.R
+    100022: Empty
+    100024: genoux.L
+    100026: genoux.L_end
+    100028: genoux.R
+    100030: genoux.R_end
+    100032: hanche.L
+    100034: hanche.R
+    100036: IK pied.L
+    100038: IK pied.L_end
+    100040: IK pied.R
+    100042: IK pied.R_end
+    100044: jambe.L
+    100046: jambe.R
+    100048: Light
+    100050: main.L
+    100052: main.L_end
+    100054: main.R
+    100056: main.R_end
+    100058: orteil.L
+    100060: orteil.L_end
+    100062: orteil.R
+    100064: orteil.R_end
+    100066: pied.L
+    100068: pied.R
+    100070: Sphere
+    100072: Squelette
+    100074: tete
+    100076: tete_end
+    100078: tron
+    100080: Ventre
+    400000: //RootNode
+    400002: avant bras.L
+    400004: avant bras.R
+    400006: bras.L
+    400008: bras.R
+    400010: Camera
+    400012: clavicule.L
+    400014: clavicule.R
+    400016: cou
+    400018: cuisse.L
+    400020: cuisse.R
+    400022: Empty
+    400024: genoux.L
+    400026: genoux.L_end
+    400028: genoux.R
+    400030: genoux.R_end
+    400032: hanche.L
+    400034: hanche.R
+    400036: IK pied.L
+    400038: IK pied.L_end
+    400040: IK pied.R
+    400042: IK pied.R_end
+    400044: jambe.L
+    400046: jambe.R
+    400048: Light
+    400050: main.L
+    400052: main.L_end
+    400054: main.R
+    400056: main.R_end
+    400058: orteil.L
+    400060: orteil.L_end
+    400062: orteil.R
+    400064: orteil.R_end
+    400066: pied.L
+    400068: pied.R
+    400070: Sphere
+    400072: Squelette
+    400074: tete
+    400076: tete_end
+    400078: tron
+    400080: Ventre
+    2000000: Camera
+    2100000: No Name
+    4300000: Sphere
+    7400000: Squelette|SqueletteAction
+    7400002: Squelette|WalkAction
+    7400004: Empty|SqueletteAction
+    7400006: Empty|WalkAction
+    9500000: //RootNode
+    10800000: Light
+    13700000: Sphere
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
